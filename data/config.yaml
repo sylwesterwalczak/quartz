@@ -8,10 +8,9 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
+  My virtual mind.
 page_title:
-  "🪴 Sylwester Walczak"
+  "🧠 Sylwester Walczak"
 links:
   - link_name: Github
     link: https://github.com/sylwesterwalczak

@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "29daeca4395dc8bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee5d9a1a664bb02e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "content/trash/hosting.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a2dd89f37f06b96",
+    "type": "split",
+    "children": [
+      {
+        "id": "e28ab72c3c8d55dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a6781ce649b952",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4b52953a067af4bd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d544f89f89d1f1d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "a110eb197884d182",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43489ff79a93e30f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/trash/hosting.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "ee5d9a1a664bb02e",
+  "lastOpenFiles": [
+    "content/trash/hosting.md",
+    "notes/preview changes.md",
+    "content/trash/editing.md",
+    "content/books/_index.md",
+    "content/programming/_index.md",
+    "content/_index.md",
+    "books.md",
+    "content/books/Startup w 7 dni.md",
+    "content/books/Jak przestać się martwić i zacząć żyć.md.md",
+    "content/trash/setup.md"
+  ]
+}
