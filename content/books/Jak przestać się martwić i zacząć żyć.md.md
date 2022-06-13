@@ -1,5 +1,8 @@
 ---
 title: "Jak przestać się martwić i zacząć żyć"
+tags: 
+- self-development
+- 2020
 ---
 ## **Co muszę wiedzieć o zamartwianiu się.**
 

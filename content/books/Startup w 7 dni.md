@@ -1,5 +1,10 @@
 ---
-title: "Startup w 7 dni. Od mocnego startu do szybkiego sukcesu # "
+title: "Startup w 7 dni. Od mocnego startu do szybkiego sukcesu"
+tags: 
+- self-development
+- business
+- 2020
+---
 ---
 
 ## **Plan na siedem dni**
