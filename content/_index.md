@@ -2,16 +2,14 @@
 title: 🧠 Sylwester Walczak
 ---
 
+Cześć, jestem Sylwester.
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
-
-1. Extremely fast full-text search by pressing `Ctrl` + `k` or `⌘` + `k`
-
-## Content Lists
-If you prefer browsing the contents of this site through a list instead of a graph, you can find content lists here too:
-
-- 📚 [Books](/books)
-- 💻 [Programming](/programming)
+- 💻 Zawodowo jestem programistą. Mój [LinkedIn](https://www.linkedin.com/in/sylwester-walczak-269b33100/)
+- 🦄 Buduję startup online metoda lean startup. BehindCode
+- 📚 Czasem czytam ksiązki [Books](/books)
+- ✍🏻 Napisałem ksiązke [Nowoczesne Django](https://helion.pl/ksiazki/nowoczesne-django-sylwester-walczak,nowdja.htm)
+- 🔴 Tworze kanał na [YouTube](https://www.youtube.com/channel/UCqbAJKtgimKJQyIcpqolb1w)
+- ℹ️ Mój blog mozesz przeczytac tutaj [Medium](https://medium.com/@swalczak94)
 
 
 
